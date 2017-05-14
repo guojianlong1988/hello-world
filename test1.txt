@@ -1,6 +1,10 @@
 master2  111 master1 改回 master2
 
+<<<<<<< HEAD
 两个都改master2
+=======
+两个都改master
+>>>>>>> master
 
 1111
 2222
